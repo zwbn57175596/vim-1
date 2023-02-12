@@ -1,6 +1,6 @@
 # 超强vim配置文件
 
-[![Build Status](https://travis-ci.org/zwbn57175596/vim.png?branch=master)](https://travis-ci.org/zwbn57175596/vim)
+[![Build Status](https://travis-ci.org/ma6174/vim.png?branch=master)](https://travis-ci.org/ma6174/vim)
 
 ### 运行截图
 
@@ -10,7 +10,7 @@
 
 打开终端，执行下面的命令就自动安装好了：
 
-`wget -qO- https://raw.github.com/ma6174/vim/master/setup.sh | sh -x`
+`wget -qO- https://raw.github.com/zwbn57175596/vim/master/setup.sh | sh -x`
 
 ### 或者自己手动安装：(以ubuntu为例)
 
