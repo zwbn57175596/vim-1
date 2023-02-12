@@ -1,6 +1,6 @@
 # 超强vim配置文件
 
-[![Build Status](https://travis-ci.org/ma6174/vim.png?branch=master)](https://travis-ci.org/ma6174/vim)
+[![Build Status](https://travis-ci.org/zwbn57175596/vim.png?branch=master)](https://travis-ci.org/zwbn57175596/vim)
 
 ### 运行截图
 
